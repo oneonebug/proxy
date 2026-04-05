@@ -1,3 +1,3 @@
-FROM ghcr.io/unsinnews/simple-proxy:sha-4da6edb
+FROM ghcr.io/unsinnews/simple-proxy:latest
 
 USER 10014
